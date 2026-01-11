@@ -71,3 +71,7 @@ streamlit_reports/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# 个人配置文件
+config.py
+test.py
